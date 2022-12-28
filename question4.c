@@ -1,6 +1,6 @@
 // 4.	A five-digit number is entered through the keyboard. 
-//Write a program to obtain the reserve number and to determine
-// whether the original and reserved number are equal or not.
+//Write a program to obtain the reverse number and to determine
+// whether the original and reversed number are equal or not.
 
 #include<stdio.h>
 #include<conio.h>
